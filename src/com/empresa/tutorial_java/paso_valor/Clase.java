@@ -1,7 +1,9 @@
-class Clase {
+package com.empresa.tutorial_java.paso_valor;
 
+class Clase {
     int entero;
     String string;
+
     public Clase(int i, String string) {
         this.entero = i;
         this.string = string;
